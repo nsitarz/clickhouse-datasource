@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.9.13
+
+Feature - enable alerting flag
+
 ## 0.9.12
 
 Fix - format check after ast change
